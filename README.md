@@ -15,3 +15,6 @@ The html file is stored on the local file system:
 ![Screenshot 2024-02-19 154824](https://github.com/BIMViewPlus/BIMViewPlus/assets/150842425/b508e3d5-59d2-41dc-8980-cf814799f3e6)
 
 From there, the converted file can be opened with any web browser.
+
+Splitting the model is easy by selecting for example one building storey in the treeview, and then exporting to IFC or glTF/html:
+![Screenshot 2024-03-30 220705](https://github.com/BIMViewPlus/BIMViewPlus/assets/150842425/17173527-e564-472a-9249-8d873663c979)
